@@ -2,7 +2,7 @@
 
 ENG
 
-Tic Tac Toe is designed for one or two players. There is also a possibility, that the program will move for both players. User can choose, which strategy will be carried out by the computer. User can choose between random, good or the best strategy. Good strategy uses the rules of optimal strategy only partly.
+Tic Tac Toe is designed for one or two players. There is also a possibility, that the program will move for both players. User can choose which strategy will be carried out by the computer. User can choose between random, good or the best strategy. Good strategy uses the rules of optimal strategy, but only partly.
 
 In this program I used multithreading. There is a separate thread for each player.
 
